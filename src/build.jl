@@ -31,7 +31,7 @@ rsvn = Dict(
   5 =>  "5286",
   6 =>  "5377",
   7 =>  "5424",
-  8 =>  "6860")
+  8 =>  "6868")
 
 function redsys(dir)
     if !(Sys.iswindows())
